@@ -4,18 +4,18 @@ Cosa vogliamo fare?
 Programma gestionale per un negozio di ottica, dove 
 
 I lavoratori possono gestire:
-Clienti
-Ordini
-Magazzino
+- Clienti
+- Ordini
+- Magazzino
 
 Mentre i clienti possono:
-Ordinare lenti a contatto gia’ ordinate
-Visualizzare stato e storico ordini 
-Visualizza punti della card
+- Ordinare lenti a contatto gia’ ordinate
+- Visualizzare stato e storico ordini 
+- Visualizza punti della card
 
 I fornitori possono:
-Fornire occhiali
-Gestire resi
+- Fornire occhiali
+- Gestire resi
 
 
 Ordine:
@@ -24,18 +24,18 @@ contrassegnato come “Consegnato” e una volta che il cliente l’avrà ricevu
 
 
 Scheda cliente:
-Anagrafica (capofamiglia)
-Card (punti guadagnati in base alla spesa)
-Optometria (Diottrie ecc)
-Fatture
-Ordini
+- Anagrafica (capofamiglia)
+- Card (punti guadagnati in base alla spesa)
+- Optometria (Diottrie ecc)
+- Fatture
+- Ordini
 
 Scheda Lavoratore:
-Anagrafica
-Superiore
+- Anagrafica
+- Superiore
 
 Prodotti in magazzino:
-Lenti a contatto [IVA 4%]
-Montature	  [4%]
-Lenti Oftalmiche  [4%]
-Accessori ? (Liquidi, Cordini, Custodie, Lenti ingrandimento) [22%]
+- Lenti a contatto [IVA 4%]
+- Montature	  [4%]
+- Lenti Oftalmiche  [4%]
+- Accessori ? (Liquidi, Cordini, Custodie, Lenti ingrandimento) [22%]
