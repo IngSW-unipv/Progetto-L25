@@ -1,0 +1,41 @@
+Progetto L25 - Gruppo LevelThree
+
+Cosa vogliamo fare?
+Programma gestionale per un negozio di ottica, dove 
+
+I lavoratori possono gestire:
+Clienti
+Ordini
+Magazzino
+
+Mentre i clienti possono:
+Ordinare lenti a contatto gia’ ordinate
+Visualizzare stato e storico ordini 
+Visualizza punti della card
+
+I fornitori possono:
+Fornire occhiali
+Gestire resi
+
+
+Ordine:
+Viene effettuato dal dipendente e mantiene lo stato “Ordinato” finché non arriva in magazzino, a quel punto verrà 
+contrassegnato come “Consegnato” e una volta che il cliente l’avrà ricevuto diventerà “Ritirato”.
+
+
+Scheda cliente:
+Anagrafica (capofamiglia)
+Card (punti guadagnati in base alla spesa)
+Optometria (Diottrie ecc)
+Fatture
+Ordini
+
+Scheda Lavoratore:
+Anagrafica
+Superiore
+
+Prodotti in magazzino:
+Lenti a contatto [IVA 4%]
+Montature	  [4%]
+Lenti Oftalmiche  [4%]
+Accessori ? (Liquidi, Cordini, Custodie, Lenti ingrandimento) [22%]
